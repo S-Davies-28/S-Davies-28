@@ -1,16 +1,17 @@
-## Hi there 👋
+Sam Davies
+CS student heading to university | interested in cybersecurity and systems programming.
 
-<!--
-**S-Davies-28/S-Davies-28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills
+Languages: Python, JavaScript, HTML/CSS
+Tools: Git, Flask, Linux
+Interests: Cybersecurity, web scraping, network programming
 
-Here are some ideas to get you started:
+Goals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+CS degree with a security focus
+Working toward roles in cybersecurity (defence/government sector)
+Building practical security skills through TryHackMe and personal projects
+
+
+Contact
+GitHub
